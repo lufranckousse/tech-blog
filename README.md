@@ -1,4 +1,4 @@
-## Tech Blog CMS
+# Tech Blog CMS
 This project is a CMS-style blog site built using the Model-View-Controller (MVC) paradigm. It allows developers to publish articles, blog posts, and opinions, as well as comment on other developers' posts.
 
 ## User Story
